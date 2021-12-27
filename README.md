@@ -17,7 +17,7 @@ The graph presented is an histogram that represent the outcomes filtered in thea
 
 
 ### Challenges and Difficulties Encountered
-
+Possible challenges that could be encountered would be at the time of counting the outcomes based on goals according to each goal parameter, when selecting the sheet column possible errors that could happen are when trying to haste the work pace if you select wrong or if you don't pin the desired column in the formula, when extending the cell the information changes.  
 
 ## Results
 
