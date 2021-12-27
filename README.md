@@ -31,4 +31,4 @@ The graph presented is an histogram that represent the outcomes filtered in thea
 Limitations presented at the time of 
 
 - What are some other possible tables and/or graphs that we could create?
-Nore options to visualize this dataset can be box & whisker plot to have a different point of view regarding the infomation, this way the outliers can be the information that are rare in this case the percentaje succesful, failed or cancelled that are unique according the goal established. 
+-More options to visualize this dataset can be box & whisker plot to have a different point of view regarding the infomation, this way the outliers can be the information that are rare in this case the percentaje succesful, failed or cancelled that are unique according the goal established. 
