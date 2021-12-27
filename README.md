@@ -3,14 +3,15 @@
 ## Overview of Project
 
 ### Purpose
-The main purpose of this analysis is to found out the goal of a Kickstarter dataset, focusing on the theater part to help a client the relationship between the launch 
+This study was done with the objective to found out the goal of a Kickstarter dataset, focusing on the theater part to help a client the relationship between the launch 
 
 ## Analysis and Challenges
 
+Working with this dataset present some challenges, starting with clasifying information 
 
 
 ### Analysis of Outcomes Based on Launch Date
-
+The graph presented is an histogram that represent the outcomes filtered in theater 
 
 ### Analysis of Outcomes Based on Goals
 
@@ -27,6 +28,7 @@ The main purpose of this analysis is to found out the goal of a Kickstarter data
 
 
 - What are some limitations of this dataset?
-
+Limitations presented at the time of 
 
 - What are some other possible tables and/or graphs that we could create?
+Graphs that can be created are 
