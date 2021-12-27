@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-This study was done with the objective to found out the goal of a Kickstarter dataset, focusing on the theater part to help a client actknowledge the relationship between the outcomes by launch date and outcomes based on goals. 
+This analysis was done with the objective to found out the goal of a Kickstarter dataset, focusing on the theater subcategory to study the relationship between the outcomes by launch date and outcomes based on goals. 
 
 ## Analysis and Challenges
 
