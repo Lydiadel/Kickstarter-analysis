@@ -22,9 +22,8 @@ Possible challenges that could be encountered would be at the time of counting t
 ## Results
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
+Analyzing this line char can be deduce that May was the month with most successful outcomes to theater since in May is presented a spike at the top which means that is the maximum value in this case, then we can see it going downward along the monthhs that in this case the successful cases are downgrading. 
 
-
-### What can you conclude about the Outcomes based on Goals?
 
 
 ### What are some limitations of this dataset?
