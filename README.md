@@ -23,10 +23,10 @@ Possible challenges that could be encountered would be at the time of counting t
 Analyzing this line char can be deduce that May was the month with most successful outcomes to theater since in May is presented a spike at the top which means that is the maximum value in this case, then we can see it going downward along the months that in this case the successful cases are decreasing. The plays that were canceled were few since the lines stays under as if it was a continuous line since it doesn't change with time. 
 
 ### What can you conclude about the Outcomes based on Goals?
-Only the outcome 45000 to 49999 was not successfull at all and the number failed increases at this rate, as well, the percentage cancelled present a 0% which can denote that there were no play cancelled in any range.
+Only the outcome 45000 to 49999 was not successfull at all and the number failed increases at this rate, as well, the percentage canceled present a 0% which can denote that there were no play canceled in any range.
 
 ### What are some limitations of this dataset?
 Limitations presented in this dataset can be that there was necessary a change in the time since it was unicode which was not readable by the lector & needed to be converted, also it was limited in the filtering since it show the average per year and not each year which is something that can be solved. 
 
 ### What are some other possible tables and/or graphs that we could create?
-More options to visualize this dataset can be box & whisker plot to have a different point of view regarding the infomation, this way the outliers can be the information that are rare in this case the percentaje succesful, failed or cancelled that are unique according the goal established. 
+More options to visualize this dataset can be box & whisker plot to have a different point of view regarding the infomation, this way the outliers can be the information that are rare in this case the percentaje succesful, failed or canceled that are unique according the goal established. 
