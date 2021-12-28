@@ -11,7 +11,8 @@ This analysis was done with the objective to found out the goal of a Kickstarter
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/71950779/147444779-be11e9a8-5ee7-4b80-a2d6-3cf8efcbdad2.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/71950779/147444747-f5620e52-264b-4946-88df-e79a9ed05404.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/71950779/147514582-44aa2fa3-e189-4f89-8f59-95f586a18f52.png)
+
 
 ### Challenges and Difficulties Encountered
 Possible challenges that could be encountered would be at the time of counting the outcomes based on goals according to each goal parameter, when selecting the sheet column possible errors that could happen are when trying to haste the work pace if you select wrong or if you don't pin the desired column in the formula, when extending the cell the information changes.
